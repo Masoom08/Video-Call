@@ -16,7 +16,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import st.masoom.videochat.ui.theme.VideoChatTheme
 
-const val APP_ID="3807f980e887421e9125e406ed73a98c"
+const val APP_ID="APP_ID"
 
 class MainActivity : ComponentActivity() {
     @OptIn(ExperimentalUnsignedTypes::class)
